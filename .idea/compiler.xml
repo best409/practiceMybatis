@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day01_eesy_02mybatis_annotation" />
+        <module name="day01_eesy_03mybatis_dao" />
+        <module name="day01_eesy_01mybatis" />
+        <module name="day01_eesy_04mybatis_design" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="day01_eesy_01mybatis" target="8" />
+      <module name="day01_eesy_02mybatis_annotation" target="8" />
+      <module name="day01_eesy_03mybatis_dao" target="8" />
+      <module name="day01_eesy_04mybatis_design" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
