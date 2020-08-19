@@ -6,17 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="day01_eesy_02mybatis_annotation" />
         <module name="day01_eesy_03mybatis_dao" />
         <module name="day01_eesy_01mybatis" />
+        <module name="day02_eesy_01mybatisCRUD" />
         <module name="day01_eesy_04mybatis_design" />
+        <module name="day01_eesy_02mybatis_annotation" />
+        <module name="day02_eesy_02mybatsiDAO" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="day01_eesy_01mybatis" target="8" />
-      <module name="day01_eesy_02mybatis_annotation" target="8" />
-      <module name="day01_eesy_03mybatis_dao" target="8" />
-      <module name="day01_eesy_04mybatis_design" target="8" />
+      <module name="day01_eesy_01mybatis" target="1.5" />
+      <module name="day01_eesy_02mybatis_annotation" target="1.5" />
+      <module name="day01_eesy_03mybatis_dao" target="1.5" />
+      <module name="day01_eesy_04mybatis_design" target="1.5" />
+      <module name="day02_eesy_01mybatisCRUD" target="1.5" />
+      <module name="day02_eesy_02mybatsiDAO" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

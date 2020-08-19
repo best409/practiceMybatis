@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/day01_eesy_02mybatis_annotation/pom.xml" />
         <option value="$PROJECT_DIR$/day01_eesy_03mybatis_dao/pom.xml" />
         <option value="$PROJECT_DIR$/day01_eesy_04mybatis_design/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_eesy_01mybatisCRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_eesy_02mybatsiDAO/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

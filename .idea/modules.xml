@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/day01_eesy_02mybatis_annotation/day01_eesy_02mybatis_annotation.iml" filepath="$PROJECT_DIR$/day01_eesy_02mybatis_annotation/day01_eesy_02mybatis_annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01_eesy_03mybatis_dao/day01_eesy_03mybatis_dao.iml" filepath="$PROJECT_DIR$/day01_eesy_03mybatis_dao/day01_eesy_03mybatis_dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01_eesy_04mybatis_design/day01_eesy_04mybatis_design.iml" filepath="$PROJECT_DIR$/day01_eesy_04mybatis_design/day01_eesy_04mybatis_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_eesy_01mybatisCRUD/day02_eesy_01mybatisCRUD.iml" filepath="$PROJECT_DIR$/day02_eesy_01mybatisCRUD/day02_eesy_01mybatisCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_eesy_02mybatsiDAO/day02_eesy_02mybatsiDAO.iml" filepath="$PROJECT_DIR$/day02_eesy_02mybatsiDAO/day02_eesy_02mybatsiDAO.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practiceMybatis.iml" filepath="$PROJECT_DIR$/.idea/practiceMybatis.iml" />
     </modules>
   </component>
